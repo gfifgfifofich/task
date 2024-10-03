@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "17Nkwx5ib2Bddsnwy3lUd2f48Je2wxnQYIBzALPZjeNPRSXd0HP3jWAhN2zIw19CZshRzfA4A9zlyaeVunOERQ==",
+  "dgSpecHash": "Tzk0clbFC0BqTtlOFhYq44TYuoKI3KNtAjjGgpGxcV6K9KTssBRFq0dAVI+zPSI85ROvqfL2pc1ZtjWh0ImZaQ==",
   "success": true,
-  "projectFilePath": "/run/media/gfif/32D0BC88D0BC53B7/Task/consoleapp.Tests/consoleapp.Tests.csproj",
+  "projectFilePath": "/run/media/gfif/32D0BC88D0BC53B7/AProjects/Task/git/task/consoleapp.Tests/consoleapp.Tests.csproj",
   "expectedPackageFiles": [
     "/home/gfif/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/home/gfif/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
@@ -93,7 +93,7 @@
     "/home/gfif/.nuget/packages/xunit.extensibility.core/2.4.2/xunit.extensibility.core.2.4.2.nupkg.sha512",
     "/home/gfif/.nuget/packages/xunit.extensibility.execution/2.4.2/xunit.extensibility.execution.2.4.2.nupkg.sha512",
     "/home/gfif/.nuget/packages/xunit.runner.visualstudio/2.4.5/xunit.runner.visualstudio.2.4.5.nupkg.sha512",
-    "/home/gfif/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+    "/home/gfif/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
   ],
   "logs": []
 }

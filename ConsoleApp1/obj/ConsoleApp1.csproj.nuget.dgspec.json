@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/run/media/gfif/32D0BC88D0BC53B7/Task/ConsoleApp1/ConsoleApp1.csproj": {}
+    "/run/media/gfif/32D0BC88D0BC53B7/AProjects/Task/git/task/ConsoleApp1/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/run/media/gfif/32D0BC88D0BC53B7/Task/ConsoleApp1/ConsoleApp1.csproj": {
+    "/run/media/gfif/32D0BC88D0BC53B7/AProjects/Task/git/task/ConsoleApp1/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/run/media/gfif/32D0BC88D0BC53B7/Task/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "/run/media/gfif/32D0BC88D0BC53B7/AProjects/Task/git/task/ConsoleApp1/ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/run/media/gfif/32D0BC88D0BC53B7/Task/ConsoleApp1/ConsoleApp1.csproj",
+        "projectPath": "/run/media/gfif/32D0BC88D0BC53B7/AProjects/Task/git/task/ConsoleApp1/ConsoleApp1.csproj",
         "packagesPath": "/home/gfif/.nuget/packages/",
-        "outputPath": "/run/media/gfif/32D0BC88D0BC53B7/Task/ConsoleApp1/obj/",
+        "outputPath": "/run/media/gfif/32D0BC88D0BC53B7/AProjects/Task/git/task/ConsoleApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gfif/.nuget/NuGet/NuGet.Config"
@@ -51,7 +51,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.7, 8.0.7]"
+              "version": "[8.0.8, 8.0.8]"
             }
           ],
           "frameworkReferences": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

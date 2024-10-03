@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rIcDh9WDmJyUvFNpYgG+MRFV8d320vXb4g/7znAp88vGkx/Q0S3hf+PGJguiHw1oQ0BWAfj2LzyDyVoJ1c1Kqw==",
+  "dgSpecHash": "wq7XO3os46pCQg88qTEgXsoSif8LZisk1xzeB7ekAz5++g+v/eVX6xEhjeII4y522tPcdEeyFcSgFRmanaDjbQ==",
   "success": true,
-  "projectFilePath": "/run/media/gfif/32D0BC88D0BC53B7/Task/ConsoleApp1/ConsoleApp1.csproj",
+  "projectFilePath": "/run/media/gfif/32D0BC88D0BC53B7/AProjects/Task/git/task/ConsoleApp1/ConsoleApp1.csproj",
   "expectedPackageFiles": [
-    "/home/gfif/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+    "/home/gfif/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
   ],
   "logs": []
 }
